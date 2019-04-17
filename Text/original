@@ -1,0 +1,35 @@
+We believe that learning in computer science and engineering
+should reflect the current state of the field, as well as introduce the
+principles that are shaping computing. We also feel that readers in
+every specialty of computing need to appreciate the organizational
+paradigms that determine the capabilities, performance, energy,
+and, ultimately, the success of computer systems.
+Modern computer technology requires professionals of every
+computing specialty to understand both hardware and software.
+The interaction between hardware and software at a variety of
+levels also offers a framework for understanding the fundamentals
+of computing. Whether your primary interest is hardware or
+software, computer science or electrical engineering, the central
+ideas in computer organization and design are the same. Thus, our
+emphasis in this book is to show the relationship between hardware
+and software and to focus on the concepts that are the basis for
+current computers.
+The recent switch from uniprocessor to multicore
+microprocessors confirmed the soundness of this perspective, given
+since the first edition. While programmers could ignore the advice
+24and rely on computer architects, compiler writers, and silicon
+engineers to make their programs run faster or be more energy-
+efficient without change, that era is over. For programs to run
+faster, they must become parallel. While the goal of many
+researchers is to make it possible for programmers to be unaware of
+the underlying parallel nature of the hardware they are
+programming, it will take many years to realize this vision. Our
+view is that for at least the next decade, most programmers are
+going to have to understand the hardware/software interface if they
+want programs to run efficiently on parallel computers.
+The audience for this book includes those with little experience in
+assembly language or logic design who need to understand basic
+computer organization as well as readers with backgrounds in
+assembly language and/or logic design who want to learn how to
+design a computer or understand how a system works and why it
+performs as it does.
